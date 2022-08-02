@@ -1,5 +1,7 @@
 # amazon-redshift-serverless-playground
 
+learn [Amazon Redshift Serverless](https://docs.aws.amazon.com/redshift/latest/mgmt/working-with-serverless.html)
+
 > Amazon Redshift Serverless makes it convenient for you to run and scale analytics without having to provision and manage data warehouse clusters.
 > Amazon Redshift automatically provisions and scales data warehouse capacity to deliver fast performance for demanding and unpredictable workloads. You pay only for the capacity that you use.
 
